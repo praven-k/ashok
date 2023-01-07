@@ -1,0 +1,71 @@
+
+									<form  id="contactform" action="redresselpnext.php" name="contact" method="post" onSubmit="return chklogfrm(contact.name.value,contact.mobile.value)"> 
+			
+        
+     <ul class="form-style-1">
+   
+
+	
+   <li>
+	 <label>Parent Name</label><input type="text" name="name" id="name" placeholder="Enter Your name" required="" class="field-long" />
+			</li>
+
+			 <li>
+	 <label>Mobile</label><input type="text" name="mobile" id="name" placeholder="Enter Mobile Number" required="" class="field-long" />
+			</li>
+
+ <li>
+	 <label>Ward Register No</label><input type="text" name="regno" id="name" placeholder="Enter Ward Number" required="" class="field-long" />
+			</li>
+
+
+	
+
+    		<li>
+            <input class="buttom" name="submit" id="submit" tabindex="5" value="Proceed" type="submit"> </li></ul>
+   </form> 
+
+						
+					
+<div id="logerr">
+		<?php
+		
+			if(isset($_SESSION['ERRMSG_ARR']))
+			{
+					if($_SESSION['ERRMSG_ARR']!='')
+					{
+							echo $_SESSION['ERRMSG_ARR'];
+							unset($_SESSION['ERRMSG_ARR']);
+					}
+			}
+		
+		?>
+	</div>
+
+
+<script type="text/javascript">
+		function chklogfrm(name,mobile)
+		{
+			//alert("sdf");
+			if(regno=="")
+			{
+			//alert("sdf");
+				document.getElementById("logerr").innerHTML="<font color='#FF0000' style='text-align:justify;font-size:11px;font-family:Verdana, Arial, Helvetica, sans-serif'><b>Required fields are empty.</b></font>";
+				return false;
+			}
+
+			if(mobile=="")
+			{
+			//alert("sdf");
+				document.getElementById("logerr").innerHTML="<font color='#FF0000' style='text-align:justify;font-size:11px;font-family:Verdana, Arial, Helvetica, sans-serif'><b>Required fields are empty.</b></font>";
+				return false;
+			}
+
+
+			/*if(vmd.length!=9)
+			{
+				document.getElementById("logerr").innerHTML="<font color='#820000' style='text-align:justify;font-size:11px;font-family:Verdana, Arial, Helvetica, sans-serif'>Invalid VMID/PASSWORD</font>";
+				return false;
+			}*/
+		}
+	</script>

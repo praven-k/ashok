@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<!--Mobile detection -->
+<!--<script type="text/javascript">
+
+if (screen.width <= 699) {
+document.location = "YOUR-MOBILE-SITE.com";
+}
+
+</script>-->
+<!-- End Mobile Detection -->
+
+<head>
+	<meta charset="UTF-8">
+	<!--<meta http-equiv="Content-type" content="text/html; charset=utf-8" />-->
+
+
+	<title>Vignan's Lara</title>
+	
+	<!-- Responsive Meta Tag -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	 <meta name="keywords" content="B.Tech,btech,scholarships,Ap,Andhra pradesh,Guntur,Admissions,b.tech admissions, btech admissions, b.tech admissions 2018, btech admissions 2018, b.tech admissions-2018, btech admissions-2018, Engineering,best,education,graduation,university,2018">
+	<!-- main stylesheet -->
+	<link rel="stylesheet" href="css123/style.css">
+	<!-- responsive stylesheet -->
+	<link rel="stylesheet" href="css123/responsive.css">
+
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<!--[if lt IE 9]>
+		<script src="js/respond.js"></script>
+	<![endif]-->
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-91921908-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-91921908-1');
+</script>
+
+	<!-- Google Tag Manager -->
+<!--<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WS59PZ2');</script>-->
+<!-- End Google Tag Manager -->
+
+<?php/* include_once("analyticstracking.php") */?>
+</head>
+<body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WS59PZ2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+	
+	<!-- preloader -->
+<!--	<div class="preloader"></div>-->
+
+	<!-- #topbar -->
+	<section id="topbar">
+		<div class="container">
+			<div class="row">
+			<!--	<div class="social pull-left">
+					<ul>
+						<li><a href="https://www.facebook.com/Vignan-University-351520444892263/?fref=ts" target="blank"><i class="fa fa-facebook"></i></a></li>
+						</li>
+
+						
+
+						<li><a href="https://twitter.com/VFSTRUniversity" target="blank"><i class="fa fa-twitter"></i></a></li>
+
+<li><a href="https://www.linkedin.com/company/vignan-s-foundation-for-science-technology-research" target="blank"><i class="fa fa-linkedin"></i></a></li>
+						<li><a href="https://www.youtube.com/channel/UCzDKwPH7h79xDSOUgGSwjPQ?view_as=subscriber" target="blank"><i class="fa fa-youtube"></i></a></li>
+						
+					</ul>
+				</div>--> <!-- /.social -->
+				<div class="contact-info pull-right">
+					<!--<ul>
+						<li><a  class="hvr-bounce-to-bottom"><i class="fa fa-phone"></i>  <b>+ 91-863-2344 700 / 701</b>  </a></li>
+						<li><a  class="hvr-bounce-to-bottom"><i class="fa fa-envelope-o"></i> <b>info@vignan.ac.in</b></a></li>-->
+						<!--<a href="tutionfee.php"><img src="img/payno.png"></a>-->
+						<!--<a href="http://vignanuniversity.org/vsat17/" style="padding-top: 50px;"><img src="img/z587e0edd780dd.gif"></a>-->
+
+
+					</ul>
+				</div> <!-- /.contact-info -->
+			</div>
+		</div>
+	</section> <!-- /#topbar -->
+
+	<!-- header -->
+	<header>
+	<div class="search-box">
+			<div class="container">
+				<div class="pull-right search  col-lg-3 col-md-4 col-sm-5 col-xs-12">
+					<form action="search.php">
+						<input type="text" placeholder="Search Here"> <button type="submit"><i class="icon icon-Search"></i></button>
+					</form>
+				</div>
+			</div>
+		</div>
+		
+		<!--<div class="cart-box">
+			<div class="container">
+				<div class="pull-right cart col-lg-6 col-xs-12">
+					<p><i class="icon icon-FullShoppingCart"></i> You Have <span>1 Item</span> in your Cart. Price is <span>$199</span></p>
+				</div>
+			</div>
+		</div>-->
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3 col-md-4 col-lg-offset-0 col-md-offset-4 logo">
+					<a href="index.php">
+						<img src="images/logo/lara.png" width="259px" height="71px" alt="logo">
+					</a>
+				</div>
+				<nav class="col-lg-9 col-md-12 col-lg-pull-0 col-md-pull-1 mainmenu-container">
+					<!--<ul class="top-icons-wrap pull-right">
+						<li class="top-icons search"><a href="#"><i class="icon icon-Search"></i></a></li>
+						
+					</ul>-->
+					<button class="mainmenu-toggler">
+						<i class="fa fa-bars"></i>
+					</button>
+					<ul class="mainmenu pull-right">
+					
+						
+					</ul>
+				</nav>
+
+
+
+
+			</div>
+		</div>
+
+
+		<!--<footer>
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 col-md-12">-->
+					<!--<p><marquee onmouseover="this.setAttribute('scrollamount', 0, 0);" onmouseout="this.setAttribute('scrollamount', 6, 0);">
+VAAHIK 2k16 organised by Applied Engineering Department on 29-02-2016. 
+ || IndustrialVisit by Civil Engineers -
+Civil students visited Pattiseema and Polavaram water project
+
+</marquee></p>--><!--<div class="request-for-qoute-wrap"></div>
+
+				</div>
+			</div>
+		</div>
+		</footer>-->
+	</header> <!-- /header -->

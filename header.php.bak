@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<!--Mobile detection -->
+<!--<script type="text/javascript">
+
+if (screen.width <= 699) {
+document.location = "YOUR-MOBILE-SITE.com";
+}
+
+</script>-->
+<!-- End Mobile Detection -->
+
+<head>
+	<meta charset="UTF-8">
+	<!--<meta http-equiv="Content-type" content="text/html; charset=utf-8" />-->
+
+
+	<title>VIGNAN's Lara</title>
+	
+	<!-- Responsive Meta Tag -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	 <meta name="keywords" content="B.Tech,btech,scholarships,Ap,Andhra pradesh,Guntur,Admissions,b.tech admissions, btech admissions, b.tech admissions 2018, btech admissions 2018, b.tech admissions-2018, btech admissions-2018, Engineering,best,education,graduation,university,2018">
+	<!-- main stylesheet -->
+	<link rel="stylesheet" href="https://vignan.ac.in/css/style.css">
+	<!-- responsive stylesheet -->
+	<link rel="stylesheet" href="https://vignan.ac.in/css/responsive.css">
+
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<!--[if lt IE 9]>
+		<script src="js/respond.js"></script>
+	<![endif]-->
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-91921908-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-91921908-1');
+</script>
+
+	<!-- Google Tag Manager -->
+<!--<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WS59PZ2');</script>-->
+<!-- End Google Tag Manager -->
+
+<?php/* include_once("analyticstracking.php") */?>
+</head>
+<body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WS59PZ2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+	
+	<!-- preloader -->
+<!--	<div class="preloader"></div>-->
+
+	<!-- #topbar -->
+	<section id="topbar">
+		<div class="container">
+			<div class="row">
+			<!--	<div class="social pull-left">
+					<ul>
+						<li><a href="https://www.facebook.com/Vignan-University-351520444892263/?fref=ts" target="blank"><i class="fa fa-facebook"></i></a></li>
+						</li>
+
+						
+
+						<li><a href="https://twitter.com/VFSTRUniversity" target="blank"><i class="fa fa-twitter"></i></a></li>
+
+<li><a href="https://www.linkedin.com/company/vignan-s-foundation-for-science-technology-research" target="blank"><i class="fa fa-linkedin"></i></a></li>
+						<li><a href="https://www.youtube.com/channel/UCzDKwPH7h79xDSOUgGSwjPQ?view_as=subscriber" target="blank"><i class="fa fa-youtube"></i></a></li>
+						
+					</ul>
+				</div>--> <!-- /.social -->
+				<div class="contact-info pull-right">
+					<!--<ul>
+						<li><a  class="hvr-bounce-to-bottom"><i class="fa fa-phone"></i>  <b>+ 91-863-2344 700 / 701</b>  </a></li>
+						<li><a  class="hvr-bounce-to-bottom"><i class="fa fa-envelope-o"></i> <b>info@vignan.ac.in</b></a></li>-->
+						<!--<a href="tutionfee.php"><img src="img/payno.png"></a>-->
+						<!--<a href="http://vignanuniversity.org/vsat17/" style="padding-top: 50px;"><img src="img/z587e0edd780dd.gif"></a>-->
+
+
+					</ul>
+				</div> <!-- /.contact-info -->
+			</div>
+		</div>
+	</section> <!-- /#topbar -->
+
+	<!-- header -->
+	<header>
+	<div class="search-box">
+			<div class="container">
+				<div class="pull-right search  col-lg-3 col-md-4 col-sm-5 col-xs-12">
+					<form action="search.php">
+						<input type="text" placeholder="Search Here"> <button type="submit"><i class="icon icon-Search"></i></button>
+					</form>
+				</div>
+			</div>
+		</div>
+		
+		<!--<div class="cart-box">
+			<div class="container">
+				<div class="pull-right cart col-lg-6 col-xs-12">
+					<p><i class="icon icon-FullShoppingCart"></i> You Have <span>1 Item</span> in your Cart. Price is <span>$199</span></p>
+				</div>
+			</div>
+		</div>-->
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3 col-md-4 col-lg-offset-0 col-md-offset-4 logo">
+					<a href="index.php">
+						<img src="laralogo.jpg" width="259px" height="71px" alt="logo">
+					</a>
+				</div>
+				<nav class="col-lg-9 col-md-12 col-lg-pull-0 col-md-pull-1 mainmenu-container">
+					<!--<ul class="top-icons-wrap pull-right">
+						<li class="top-icons search"><a href="#"><i class="icon icon-Search"></i></a></li>
+						
+					</ul>-->
+					<button class="mainmenu-toggler">
+						<i class="fa fa-bars"></i>
+					</button>
+					<ul class="mainmenu pull-right">
+						<li class="current">
+							<a href="index.php" class="hvr-overline-from-left">Home</a>
+							<!--<ul class="submenu">
+								<li><a href="index-v2.html">One Page Version</a></li>
+								<li class="dropdown">
+									<a href="header-v1.html">Header Variations</a>
+									<ul class="submenu">
+										<li><a href="header-v1.html">Header V1</a></li>
+										<li><a href="header-v2.html">Header V2</a></li>
+										<li><a href="header-v3.html">Header V3</a></li>
+										<li><a href="header-v4.html">Header V4</a></li>
+									</ul>
+								</li>
+							</ul>-->
+						</li>
+						<li class="dropdown">
+							<a href="#" class="hvr-overline-from-left">About Us</a>
+							<ul class="submenu">
+							<li><a href="vision.php">Vision & Mission</a></li>
+								<li><a href="chairman.php">Chairman</a></li>
+								<li><a href="chancellor.php">Chancellor</a></li>
+								<li><a href="vc.php">Vice-Chancellor</a></li>
+								<li><a href="rector.php">Rector</a></li>
+								<li><a href="registrar.php">Registrar</a></li>
+								<li><a href="apex.php">Apex Bodies</a></li>
+								<li><a href="structure.php">Organizational Structure</a></li>
+								
+
+								<!--<li><a href="functionaries.php">Key Functionaries</a></li>-->
+
+
+
+
+								
+								<li class="dropdown"><a href="#">Awards and Accolades</a>
+								<ul class="submenu">
+										<li><a href="pdf/NAAC.pdf" target="blank">NAAC</a></li>
+										<li><a href="pdf/nirf.pdf" target="blank">NIRF-2017</a></li>
+										
+								</ul>
+								
+								</li>
+
+								<li><a href="areports.php">Annual Reports</a></li>
+
+							</ul>
+						</li>
+
+						
+						<li class="dropdown"><a href="#" class="hvr-overline-from-left">Future Students</a>
+							<ul class="submenu">
+									<li class="dropdown"><a href="#">Admissions</a>
+								
+								<ul class="submenu">
+										<li class="dropdown"><a href="#">UG Programmes</a>
+										<ul class="submenu">
+										<li><a href="ug.php">B.Tech./B.Pharm</a></li>
+										<li><a href="lateralentry.php">Lateral&nbsp;Entry</a></li>
+										<li><a href="bbabca.php">BBA / BCA</a></li>
+										<li><a href="bsc.php">B.Sc</a></li>
+										<!--<li><a href="pdf/B.Pharmacy Fee and Scholarships 2017-18.pdf">B.Pharmacy</a></li>-->
+																				
+										</ul>
+										
+										
+										</li>
+										<li class="dropdown"><a href="#">PG Programmes</a>
+										<ul class="submenu">
+										<li><a href="mtech.php">M.Tech.</a></li>
+										<li><a href="mbamca.php">MBA <!--/ MCA--></a></li>
+										<li><a href="mbamca.php">MCA</a></li>
+										</ul>												
+										
+										</li>
+
+										<li><a href="phd.php"><font style="text-transform: none;">Ph.D.</font> Admissions</a></li>
+										
+									</ul></li>
+									<li class="dropdown"><a href="#">Fee&nbsp;Structure&Scholarships</a>
+								
+								<ul class="submenu">
+										<li class="dropdown"><a href="#">For UG Programmes</a>
+										<ul class="submenu">
+										<li><a href="feesbtech.php">B.Tech/B.Pharm</a></li>
+										<li><a href="feesbba.php">BBA</a></li>
+										<li><a href="feesbca.php">BCA</a></li>
+										<li><a href="feesbsc.php">B.Sc</a></li>																				
+										</ul>
+										
+										
+										</li>
+										<li class="dropdown"><a href="#">For PG Programmes</a>
+										<ul class="submenu">
+										<li><a href="feesmtech.php">M.Tech</a></li>
+										<li><a href="feesmba.php">MBA</a></li>
+										<li><a href="feesmca.php">MCA</a></li>
+										</ul>												
+										
+										</li>
+
+										<li><a href="feesphd.php">For <font style="text-transform: none;">Ph.D.</font> Programmes</a></li>
+										
+									</ul></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								
+								<!--<li><a href="fees.php">Fee Structure</a></li>-->
+								
+									<li class="dropdown"><a href="#">International&nbsp;Admissions</a>
+								
+								<ul class="submenu">
+										<li ><a href="inadproc.php">Admission Procedure</a>
+										<!--<ul class="submenu">
+										<li><a href="ug.php">B.Tech</a></li>
+										<li><a href="bbabca.php">BBA / BCA</a></li>
+										<!--<li><a href="bbabca.php">BCA</a></li>
+																				
+										</ul>-->
+										
+										
+										</li>
+										<!--<li ><a href="#">Courses Offered</a>-->
+										<!--<ul class="submenu">
+										<li><a href="mtech.php">M.Tech</a></li>
+										<li><a href="mbamca.php">MBA / MCA</a></li>
+										
+										</ul>-->												
+										
+										</li>
+										<!--<li><a href="phd.php">Fee Structure</a></li>-->
+
+										<li><a href="inadrules.php">Rules & Regulations</a></li>
+										<li><a href="pdf/Foreign_students_Application_form.pdf">Application Form</a></li>
+										<li><a href="pdf/latest_fee_structure_for_foreign_students.pdf">Fee Structure</a></li>
+										<li><a href="pdf/Fee Structure for NRI students.pdf">NRI Fee Structure</a></li>
+
+										
+										<li><a href="visa.php">Visa</a></li>
+										<li><a href="inadcampuslife.php">Campus Life</a></li>
+										<li><a href="intadcontact.php">Contact Details</a></li>
+
+
+										<!--<li><a href="inadrules.php">Rules & Regulations</a></li>-->
+										<!--<li><a href="phd.php">Contact Us</a></li>-->
+										
+									</ul></li>
+									<li><a href="mous.php"><font size="" color=""style="font-case: normal">MoUs</font></a></li>
+
+								<!--<li><a href="scholarships.php">Scholarships</a></li>-->
+								<!--<li><a href="studentcomm.php">Student Committees</a></li>-->
+								<li class="dropdown"><a href="#">University Life</a>
+								<ul class="submenu">
+										<li><a href="ambience.php">Ambience</a></li>
+										<!--<li><a href="studentcomm.php">Student Committees</a></li>-->
+										<li><a href="recreational.php">Recreational&nbsp;Activities</a></li>
+										<li><a href="nss.php">Social Consciousness</a></li>
+								</ul>
+								
+								</li>
+								<!--<li><a href="pdf/contactdetailsaddmissions16.pdf">Contact for Admissions</a></li>-->
+
+<!--<li><a href="pdf/Prospectus 2018.pdf">Prospectus 2018</a></li>-->
+								
+							</ul>
+						</li>
+
+
+					
+
+
+
+
+						<li class="dropdown"><a href="#" class="hvr-overline-from-left">Current Students</a>
+							<ul class="submenu">
+								<li><a href="examinations.php">Examinations</a></li>
+								<li><a href="policies.php">Policies & Hand Books</a></li>
+								<li><a href="regulations.php">Regulations</a></li>
+								<li><a href="curscholorships.php">Scholarships</a></li>
+								<li><a href="swayam.php">SWAYAM Courses</a></li>
+								<!--<li><a href="Lecture Plan 2015.pdf" target="blank">Year Planner</a></li>-->
+
+								<!--<li class="dropdown"><a href="#">Year Planner</a>
+								<ul class="submenu">
+										<li><a href="pdf/I_year_plan.pdf">I Year</a></li>
+										
+										<li><a href="accalender.php">Academic Calender</a></li>
+										
+								</ul>
+								
+								</li>-->
+								<li><a href="studentcomm.php">Committees</a></li>
+								<!--<li class="dropdown"><a href="#">University Life</a>
+								<ul class="submenu">
+										<li><a href="ambience.php">Ambience</a></li>
+										
+										<li><a href="recreational.php">Recreational Activities</a></li>
+										<li><a href="nss.php">Social Consciousness</a></li>
+								</ul>
+								
+								</li>-->
+								<li><a href="essentialcontacts.php">Essential Contacts</a></li>
+							</ul>
+						</li>
+
+							<li class="dropdown">
+							<a href="#" class="hvr-overline-from-left">Departments</a>
+							<ul class="submenu">
+							<li><a href="aehome.php">Applied Engineering</a>
+									<!--<ul class="submenu">
+										<li><a href="#">Board of Studies</a></li>
+										<li><a href="#">Hod's Message</a></li>
+										<li><a href="#">Faculty List</a></li>
+										<li><a href="#">Infrastructure</a></li>
+										<li><a href="#">Laboratory</a></li>
+										<li><a href="#">Research</a></li>
+										<li class="dropdown"><a href="#">Events</a>
+										<ul class="submenu">
+										<li><a href="#">Workshops</a></li>
+										<li><a href="#">Guest Lectures</a></li>
+										<li><a href="#">Seminars / Conferences</a></li>
+										</ul>
+										</li>
+										<li><a href="#">Virtual Tour</a></li>
+										<li class="dropdown"><a href="#">Achievements</a>
+										<ul class="submenu">
+										<li><a href="#">Student Achievements</a></li>
+										<li><a href="#">Faculty Achievements</a></li>
+										<li><a href="#">Placements</a></li>
+										</ul>
+										</li>
+									</ul>-->
+								</li>
+								<li><a href="biotechhome.php">Biotechnology</a>
+									
+								</li>
+
+								<li ><a href="chemhome.php">Chemical Engineering</a>
+									
+								</li>
+								<li ><a href="civilhome.php">Civil Engineering</a>
+									
+								</li>
+								<li ><a href="csehome.php">CSE</a>
+									
+								</li>
+								<li ><a href="ecehome.php">ECE</a>
+									
+								</li>
+								<li ><a href="eeehome.php">EEE</a>
+									
+								</li>
+								<li ><a href="mechhome.php">Mechanical Engineering</a>
+									
+								</li>
+								<li ><a href="ithome.php">Information&nbsp;Technology</a>
+									
+								</li>
+								<li ><a href="mgthome.php">Management Studies</a>
+									
+								</li>
+								<li ><a href="bshhome.php">Sciences & Humanities</a>
+								<li ><a href="pharmacy.php">Pharmaceutical&nbsp;Sciences</a>
+
+
+									
+								</li>
+
+							</ul>
+						</li>
+
+
+						
+
+
+
+
+
+
+						<li >
+							<a href="http://vignanalumni.org/" class="hvr-overline-from-left" target="blank">Alumni</a>
+						</li>
+						
+						<li >
+							<a href="contact.php" class="hvr-overline-from-left">Contact Us</a>
+							
+
+						</li>
+						
+					</ul>
+				</nav>
+
+
+
+
+			</div>
+		</div>
+
+
+		<!--<footer>
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 col-md-12">-->
+					<!--<p><marquee onmouseover="this.setAttribute('scrollamount', 0, 0);" onmouseout="this.setAttribute('scrollamount', 6, 0);">
+VAAHIK 2k16 organised by Applied Engineering Department on 29-02-2016. 
+ || IndustrialVisit by Civil Engineers -
+Civil students visited Pattiseema and Polavaram water project
+
+</marquee></p>--><!--<div class="request-for-qoute-wrap"></div>
+
+				</div>
+			</div>
+		</div>
+		</footer>-->
+	</header> <!-- /header -->
